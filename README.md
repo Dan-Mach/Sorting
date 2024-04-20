@@ -1,2 +1,2 @@
-# Sorting
-A sorting algorithm
+# Swapping
+A swapping  algorithm
